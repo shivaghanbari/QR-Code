@@ -14,5 +14,5 @@ img = Image.open(r"C:\Users\shiva.ghanbari\Desktop\QR_MitraNail.png")
 draw = ImageDraw.Draw(img)
 txt = 'MitraNail'
 font = ImageFont.truetype('arial.ttf', 30)
-draw.text((100, 1), txt, font=font, fill=(204, 255, 255))
+draw.text((100, 1), txt, fill=(204, 255, 255))
 img.save(r"C:\Users\shiva.ghanbari\Desktop\QR_MitraNail.png")
