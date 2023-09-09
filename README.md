@@ -24,7 +24,7 @@ Usage
 
    python QR.py
    
-3.You can customize the appearance of the QR code by modifying the script's settings in the QR.py file, especially with the help of the PIL module.
+3. You can customize the appearance of the QR code by modifying the script's settings in the QR.py file, especially with the help of the PIL module.
 
 
 Acknowledgments
